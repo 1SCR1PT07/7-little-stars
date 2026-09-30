@@ -2,9 +2,9 @@
 window.SITE_CONFIG = {
   // true  = SHOW her name (Irham Saba) everywhere
   // false = HIDE her name (demo/show mode, shows "You" instead)
-  SHOW_NAME: false,
+  SHOW_NAME: true,
 
-  SECRET_CODE: "SABA2210",
+  SECRET_CODE: "Irham2210",
 
   // Birthday: October 22 (month is 1-12). The year is picked automatically,
   // so the countdown always points at the current year's birthday.
