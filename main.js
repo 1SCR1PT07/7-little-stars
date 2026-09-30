@@ -147,37 +147,37 @@ const STAR_MESSAGES = [
   {
     id: 1, symbol: '✦', color: '#A78BFA',
     name: 'The Star of First Moments',
-    message: 'Every constellation needs a first star. This one volunteered.',
+    message: 'Har constellation ki ek first star hoti hai. Toh obviously, ye wali pehle aani thi. ✦',
   },
   {
     id: 2, symbol: '⋆', color: '#F9A8D4',
     name: 'The Star of Small Things',
-    message: 'Tiny reminder: Little things matter like extra fries and finding hidden stars.',
+    message: 'Chhoti chhoti cheezein bhi matter karti hain. Jaise extra fries mil jaana. Ya hidden star mil jaana. ⋆',
   },
   {
     id: 3, symbol: '✧', color: '#8B5CF6',
     name: 'The Star of Quiet Nights',
-    message: 'The moon asked me to tell you: Sleep on time.',
+    message: 'Moon ka message hai: raat ko time pe soya karo. Haan, mujhe bhi pata hai aap nahi sunne wale. 😭.',
   },
   {
     id: 4, symbol: '★', color: '#FDE68A',
     name: 'The Star of What\'s Coming',
-    message: 'Future forecast: more good days and less nonsense.',
+    message: 'Prediction zyada kuch nahi hai. Bas hopefully aage thode aur achhe din aaye',
   },
   {
     id: 5, symbol: '✶', color: '#A78BFA',
     name: 'The Star of Who You Are',
-    message: 'Certified fact: you have successfully survived most of your bad days so far.',
+    message: 'Achievement unlocked: aapne apne saare bad days survive kar liye. Baaki bhi dekh lenge. ✶',
   },
   {
     id: 6, symbol: '⟡', color: '#F9A8D4',
     name: 'The Star of Honest Things',
-    message: 'Honest star report: you deserve a really good birthday.',
+    message: 'Okay, jokes aside I really hope aapko iss saal woh sab mile jo aap chahte ho. ⟡',
   },
   {
     id: 7, symbol: '✨', color: '#FDE68A',
     name: 'The Last Star',
-    message: `You found all seven stars. At this point, i am convinced you would survive a tressure hunt`,
+    message: 'Saari 7 stars mil gayi? Wah. Treasure hunt mein bhi aapne somehow kar hi liya. Ab khush. ',
   },
 ];
 
@@ -185,7 +185,7 @@ const STAR_MESSAGES = [
    EASTER EGGS
 ═══════════════════════════════════════ */
 const EGGS_LOCAL = [
-  'You caught a shooting star. 🌠 That\'s exactly the kind of person you are — noticing what others miss.',
+  'You caught a shooting star. ',
   'A secret: shooting stars don\'t really grant wishes. They just remind you to make them.',
   'Hidden things are everywhere. So is beauty. You found both tonight.',
   'You clicked a shooting star. Of course you did. That checks out completely.',
