@@ -68,7 +68,7 @@ const WISHES = [
   { month: 'November',  text: 'Thandi shuru ho gayi....bimaar mat hona. '},
   { month: 'December',  text: 'Thora sa rest be karna ✨' },
   { month: 'January',   text: 'Naya saal ha...iss saal kuch toofani karte hain😅 '},
-  { month: 'February',  text: 'Arey khud ke liye ne thora sa time nikaal lena. '},
+  { month: 'February',  text: 'Arey khud ke liye be thora sa time nikaal lena. '},
   { month: 'March',     text: 'Jo kaam kal karna tha... wo abb kar hi lo.  '},
   { month: 'April',     text: 'Mera fav month ha...acha hi jayega, so chill' },
   { month: 'May',       text: 'Garmi shuru ho gayi phir se...khub pani piya karo. '},
@@ -82,18 +82,18 @@ const WISHES = [
    EK AUR BAAT — wholesome + funny
 ═══════════════════════════════════════ */
 const EAB_MSGS = [
-  'Genuinely — you\'re not as bad as you think you are. A little self-trust goes a long way. 🌟',
-  'That thing that feels huge right now? In two years it\'ll be a story you tell at dinner. Trust the process. ⏳',
-  'Have you eaten today? Serious question. Take care of yourself. 🍕',
-  'Your laugh is actually contagious. Scientific fact. Completely unverified but still. 😄',
-  'That one thing you\'ve been putting off since yesterday — just do it today. That\'s it. That\'s the advice. ✅',
-  'Sometimes saying "I don\'t know" is the bravest thing you can say. 💙',
-  'Not all your plans will work out. That\'s not failure — that\'s just life doing its thing. 🎲',
-  'You deserve good things. You\'re allowed to want them. Don\'t forget that. 🌈',
-  'Drink some water. The stars will still be here after. 💧',
-  'Your smallest achievement this year still counts. Give yourself some credit. 🏆',
-  'The fact that you found this message means you\'re curious. Curious people go far. 👀',
-  'Whatever is worrying you at 2am — it will look smaller in the morning. Promise. 🌙',
+  'Kabhi kabhi khud pe bhi trust kar liya karo',
+  'Jo problem abhi itni badi lag rahi hai...shyd wo itni be badi nhi ha',
+  'Kuch khaya? Nahi? Toh pehle kha lo. Birthday wish baad mein bhi padh sakte hain. 🍕',
+  'Hasso mat yawr....mujhe pata ha aap hass rahe ho. 😄',
+  'Agar kuch kaam pending ha toh wo kar lo phelay',
+  'Har cheez ka answer turant milna zaroori nahi hai. Kabhi kabhi bas “dekhte hain” bolke aage badhna padta hai',
+  'Achhi cheezein maangne mein sharmana nahi chahiye. Aapko jo chahiye, uske liye wish kar sakhte ho. 🌈',
+  'Paani pee lo. Haan, ye boring advice hai. Lekin paani toh peena padega. ',
+  'Kabhi kabhi phone side mein rakh diya karo',
+  'Aaj ka din bekaar gaya? Koi nahi kl dekhte hain. ',
+  'Kabhi koi random cheez dekh ke meri yaad aaye toh bata dena. Ab itna bhi kya sochna.',
+  'Kabhi kuch aisa ho jo dekh ke lage “ye toh isko bhi funny lagega”, toh bhej dena',
 ];
 
 let eabIndex = -1;
