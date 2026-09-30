@@ -20,12 +20,12 @@ window.SITE_CONFIG = {
     title: "Aa gaye finally — Happy Birthday! 🎂",
     body:
       ",\n\n" +
-      "Yeh message birthday ke liye lock tha.\n" +
-      "Aur ab jab unlock ho hi gaya hai, to seeedi baat.\n\n" +
-      "Umeed ha ki aaj ka din achha jaaye .\n" +
-      "Khubb hasna.\n\n" +
+      "Yeh be birthday ke din hi khulna tha .\n" +
+      "Abb khul hi gaya ha toh kiya hi bolu.\n\n" +
+      "Bas aaj ache se enjoy karna .\n" +
+      "Khubb khana .\n\n" +
       "Khubb enjoy karna\n" +
-      "Aur birthday wale special treatment ka full fayda uthana.\n\n" +
+      "Aur thore bhout nakhre be chalenge.\n\n" +
       "Happy Birthday. 🌟"
   },
 
@@ -36,8 +36,8 @@ window.SITE_CONFIG = {
   ],
 
   EASTER_EGGS: [
-    "Shooting star pakad liya! 🌠 Seriously impressive.",
-    "Yeh star sirf special logon ko milta hai. Coincidence nahi hai yeh.",
+    "Pakad liya impressive.",
+    "Yeh star sirf special logon ko milta hai.",
     "Aapne shooting star click kiya.Aapki wish poori hogi. (Main guarantee nahi deta but still.) 🤞",
     "Looks like you found the easter egg i hid here. Respect. 🫡"
   ]
