@@ -64,18 +64,18 @@ function runLoader() {
    MONTHLY WISHES — original English
 ═══════════════════════════════════════ */
 const WISHES = [
-  { month: 'October',   text: 'Birthday ha cake toh banta ha, meko be thora sa mil jata toh... },
-  { month: 'November',  text: 'Thandi shuru ho gayi....bimaar mat hona. },
+  { month: 'October',   text: 'Birthday ha cake toh banta ha, meko be thora sa mil jata toh... '},
+  { month: 'November',  text: 'Thandi shuru ho gayi....bimaar mat hona. '},
   { month: 'December',  text: 'Thora sa rest be karna ✨' },
-  { month: 'January',   text: 'Naya saal ha...iss saal kuch toofani karte hain😅 },
-  { month: 'February',  text: 'Arey khud ke liye ne thora sa time nikaal lena. },
-  { month: 'March',     text: 'Jo kaam kal karna tha... wo abb kar hi lo.  },
+  { month: 'January',   text: 'Naya saal ha...iss saal kuch toofani karte hain😅 '},
+  { month: 'February',  text: 'Arey khud ke liye ne thora sa time nikaal lena. '},
+  { month: 'March',     text: 'Jo kaam kal karna tha... wo abb kar hi lo.  '},
   { month: 'April',     text: 'Mera fav month ha...acha hi jayega, so chill' },
-  { month: 'May',       text: 'Garmi shuru ho gayi phir se...khub pani piya karo. },
-  { month: 'June',      text: 'Arey abb toh ziyada garmi hogyi... aap pani piyo bss  },
-  { month: 'July',      text: 'Bss barish ho jaye wohi kafi ha ooff },
-  { month: 'August',    text: 'Dekho yawr mera birthday be aagya...Happy birthday },
-  { month: 'September', text: 'Bass abb aapka birthday be aane hi wala ha. },
+  { month: 'May',       text: 'Garmi shuru ho gayi phir se...khub pani piya karo. '},
+  { month: 'June',      text: 'Arey abb toh ziyada garmi hogyi... aap pani piyo bss  '},
+  { month: 'July',      text: 'Bss barish ho jaye wohi kafi ha ooff '},
+  { month: 'August',    text: 'Dekho yawr mera birthday be aagya...Happy birthday '},
+  { month: 'September', text: 'Bass abb aapka birthday be aane hi wala ha. '},
 ];
 
 /* ═══════════════════════════════════════
