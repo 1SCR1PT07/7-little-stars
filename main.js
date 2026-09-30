@@ -64,18 +64,18 @@ function runLoader() {
    MONTHLY WISHES — original English
 ═══════════════════════════════════════ */
 const WISHES = [
-  { month: 'October',   text: 'A birthday that actually feels as special as you are. 🎂' },
-  { month: 'November',  text: 'Warmth — from people, places, or just a really good cup of something hot. ☕' },
-  { month: 'December',  text: 'Rest that actually feels like rest. You\'ve earned it. ✨' },
-  { month: 'January',   text: 'A fresh start that feels real, not just like a date on a calendar. 🌅' },
-  { month: 'February',  text: 'Someone who makes you feel genuinely, quietly understood. 💫' },
-  { month: 'March',     text: 'New beginnings you didn\'t plan for — the best kind. 🌸' },
-  { month: 'April',     text: 'Progress on something that matters to you, even if no one else sees it yet. 📬' },
-  { month: 'May',       text: 'A day so good it becomes one of those memories you keep returning to. 😎' },
-  { month: 'June',      text: 'Long evenings and the kind of calm that settles in your chest. 💪' },
-  { month: 'July',      text: 'An adventure — big or small — that becomes a story worth telling. 🌧️' },
-  { month: 'August',    text: 'One thing you\'ve never done before. Just once. 🎯' },
-  { month: 'September', text: 'Arriving at your next birthday with a heart that feels full. 🤲' },
+  { month: 'October',   text: 'Birthday ha cake toh banta ha, meko be thora sa mil jata toh... },
+  { month: 'November',  text: 'Thandi shuru ho gayi....bimaar mat hona. },
+  { month: 'December',  text: 'Thora sa rest be karna ✨' },
+  { month: 'January',   text: 'Naya saal ha...iss saal kuch toofani karte hain😅 },
+  { month: 'February',  text: 'Arey khud ke liye ne thora sa time nikaal lena. },
+  { month: 'March',     text: 'Jo kaam kal karna tha... wo abb kar hi lo.  },
+  { month: 'April',     text: 'Mera fav month ha...acha hi jayega, so chill' },
+  { month: 'May',       text: 'Garmi shuru ho gayi phir se...khub pani piya karo. },
+  { month: 'June',      text: 'Arey abb toh ziyada garmi hogyi... aap pani piyo bss  },
+  { month: 'July',      text: 'Bss barish ho jaye wohi kafi ha ooff },
+  { month: 'August',    text: 'Dekho yawr mera birthday be aagya...Happy birthday },
+  { month: 'September', text: 'Bass abb aapka birthday be aane hi wala ha. },
 ];
 
 /* ═══════════════════════════════════════
