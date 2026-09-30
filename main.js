@@ -147,7 +147,7 @@ const STAR_MESSAGES = [
   {
     id: 1, symbol: '✦', color: '#A78BFA',
     name: 'The Star of First Moments',
-    message: 'Har constellation ki ek first star hoti hai. Toh obviously, ye wali pehle aani thi. ✦',
+    message: 'Har constellation ka ek start hota hai. ye wohi ha. ✦',
   },
   {
     id: 2, symbol: '⋆', color: '#F9A8D4',
@@ -177,7 +177,7 @@ const STAR_MESSAGES = [
   {
     id: 7, symbol: '✨', color: '#FDE68A',
     name: 'The Last Star',
-    message: 'Saari 7 stars mil gayi? Wah. Treasure hunt mein bhi aapne somehow kar hi liya. Ab khush. ',
+    message: 'Saari 7 stars mil gayi? Wah. Treasure hunt kar liya... Ab khush. ',
   },
 ];
 
