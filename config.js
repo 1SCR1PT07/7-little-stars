@@ -14,7 +14,7 @@ window.SITE_CONFIG = {
   // Message board (page 8): GitHub Pages has no backend, so messages are sent
   // to a form service. Create a free form at https://formspree.io and paste the
   // endpoint here, e.g. "https://formspree.io/f/abcdwxyz". Messages then land in your email.
-  MESSAGE_ENDPOINT: "",
+  MESSAGE_ENDPOINT: "https://formspree.io/f/mkjgepbg",
 
   BIRTHDAY_MSG: {
     title: "Aa gaye finally — Happy Birthday! 🎂",
