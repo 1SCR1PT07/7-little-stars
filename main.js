@@ -17,7 +17,7 @@ let musicPlaying = false;
 
 /* Config now lives in config.js (was Flask app.py) */
 const CFG = window.SITE_CONFIG;
-const HIDE_NAME = CFG.HIDE_NAME;
+const HIDE_NAME = !CFG.SHOW_NAME;
 document.documentElement.classList.toggle('show-name', !HIDE_NAME);
 if (!HIDE_NAME) document.title = '✨ 7 Little Stars — for Irham Saba';
 

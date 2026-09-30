@@ -1,7 +1,8 @@
 /* ✨ 7 Little Stars — site config (replaces the old Flask app.py settings) */
 window.SITE_CONFIG = {
-  // Set to false to SHOW her name everywhere, true to HIDE it (demo/show mode)
-  HIDE_NAME: true,
+  // true  = SHOW her name (Irham Saba) everywhere
+  // false = HIDE her name (demo/show mode, shows "You" instead)
+  SHOW_NAME: false,
 
   SECRET_CODE: "SABA2210",
 
