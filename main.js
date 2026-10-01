@@ -177,7 +177,7 @@ const STAR_MESSAGES = [
   {
     id: 7, symbol: '✨', color: '#FDE68A',
     name: 'The Last Star',
-    message: 'Saari 7 stars mil gayi? Wah. Treasure hunt kar liya... Ab khush. ',
+    message: 'Saari 7 stars mil gaye? Wah. Treasure hunt kar liya... Ab khush. ',
   },
 ];
 
